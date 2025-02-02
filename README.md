@@ -12,7 +12,7 @@
 
 ## Requirements
 
-- Python 3.7 or later
+- Python 3.12 or later
 - Streamlit
 - Google Generative AI (Gemini) API
 - DuckDuckGo for search integration
