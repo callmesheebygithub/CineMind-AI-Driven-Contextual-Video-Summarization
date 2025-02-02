@@ -1,5 +1,3 @@
-Here's the `README.md` file for your project:
-
 ```markdown
 # CineMind: AI-Driven Contextual Video Summarization 🎬
 
@@ -24,7 +22,7 @@ Here's the `README.md` file for your project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/your-repository-url.git](https://github.com/callmesheebygithub/CineMind-AI-Driven-Contextual-Video-Summarization.git
    cd your-repository
    ```
 
