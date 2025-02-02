@@ -63,6 +63,4 @@ Here's the `README.md` file for your project:
 
 - **Muhammad Shoaib**  
   Built with passion 🚀
-
 ```
-
